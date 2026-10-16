@@ -19,6 +19,7 @@
 *Send branded invoices, accept payment, and track status.*
 
 * **[TaxInvoicer](https://taxinvoicer.com)** - Professional invoice management with client portal, PDF generation, automatic calculations, and Stripe integration.
+* [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli) - Open-source, zero-dependency CLI that generates a clean HTML invoice from a JSON file; no account needed. (maker)
 * [FreshBooks](https://freshbooks.com) - Accounting and invoicing for self-employed professionals and small teams.
 * [Wave](https://waveapps.com) - Free invoicing and accounting for freelancers and small businesses.
 * [Zoho Invoice](https://www.zoho.com/invoice) - Free online invoicing software with multi-currency support.
